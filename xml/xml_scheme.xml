@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type="text/css"
+href="style.css"?>
+<schema orderid="889923"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="scheme.xsd" xmlns="http://www.w3.org/2001/XMLSchema">
+    <FACULTY>
+    <STUDENT>Golf </STUDENT>
+  <SPECIALIZATION>
+      <NAME>Prices</NAME>
+      <TIME>21.27 </TIME>
+      <FILM>USA</FILM>
+      <PARTS>1</PARTS>
+      <PASSING>Contact</PASSING>
+</SPECIALIZATION>
+    <STUDENT>California</STUDENT>
+<SPECIALIZATION>
+    <NAME>Tiger woods</NAME>
+    <TIME>Maria Verchenova</TIME>
+    <FILM>Jordan Spit</FILM>
+    <PARTS>3</PARTS>
+    <PASSING>Golfers</PASSING>
+</SPECIALIZATION>
+    </FACULTY>
+</schema>
